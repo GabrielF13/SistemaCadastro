@@ -1,6 +1,6 @@
 # SistemaCadastro
 
-Sistema da Cadastro feito com C# com intuito de apredizado.
+Sistema da Cadastro feito com C# com intuito de aprendizado.
 
 
 #################################################################
